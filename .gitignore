@@ -71,3 +71,8 @@ commands/test.js
 # vs code files
 .vscode/
 .vsls.json
+
+# vs files
+.vs
+obj/
+bin/
